@@ -24,7 +24,7 @@ A full-stack social media web application built with the **MERN stack** (MongoDB
 
 | Login / Register | Home Feed | Profile |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Feed](screenshots/feed.png) | ![Profile](screenshots/profile.png) |
+| ![Login](loginpage.jpeg) | ![Feed](screenshots/feed.png) | ![Profile](screenshots/profile.png) |
 
 ---
 
