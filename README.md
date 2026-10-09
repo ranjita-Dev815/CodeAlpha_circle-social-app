@@ -208,7 +208,7 @@ The app will run at `http://localhost:5173`.
 
 ## About the Internship
 
-This project was developed as **Task 2** during my **Full Stack Development Internship at [CodeAlpha](https://www.codealpha.tech/)**.
+This project was developed as **Task 3** during my **Full Stack Development Internship at [CodeAlpha](https://www.codealpha.tech/)**.
 
 ---
 
@@ -217,7 +217,7 @@ This project was developed as **Task 2** during my **Full Stack Development Inte
 **Ranjita Kumari Prusty**
 
 - GitHub: [@ranjita-Dev815](https://github.com/ranjita-Dev815)
-- LinkedIn: [Add your LinkedIn profile link here]
+- LinkedIn: https://www.linkedin.com/in/ranjita-kumari-prusty-819b10333
 
 ---
 
